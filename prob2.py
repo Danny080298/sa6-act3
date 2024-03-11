@@ -1,4 +1,5 @@
-num = [23,45,65,2,47,55]
+string = ['a','s','d','g','c','w']
 
-new_list = sorted(num, key= lambda x:x)
+
+new_list = sorted(string, key= lambda x:x)
 print(new_list)
